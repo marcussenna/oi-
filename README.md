@@ -1,2 +1,2 @@
-# olá
- primeiro repositorio versionado
+# olá,esse é meu primeiro repositório
+ primeiro repositorio repositório criado para pratica e estudo 
